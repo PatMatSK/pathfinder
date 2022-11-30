@@ -120,9 +120,9 @@ def find_path(start, finish, graph, towns_coords):
     build_path(finish, visited, towns_coords)
 
 
-towns_coords = get_data("towns.txt")
+towns_coords = get_data("data/towns.txt")
 show_towns(towns_coords)
-graph = create_graph(towns_coords, "edges.txt")
+graph = create_graph(towns_coords, "data/edges.txt")
 towns = towns_coords.keys()
 
 start_label = tk.Label(root, text="Start:")
