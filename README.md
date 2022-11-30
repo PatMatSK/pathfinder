@@ -3,9 +3,10 @@
 Find shortest path between 2 Slovak towns.
 
 Terminal usage:
-git clone https://github.com/PatMatSK/pathfinder
-cd pathfinder
-python3 path_finder.py
+
+- git clone https://github.com/PatMatSK/pathfinder
+- cd pathfinder
+- python3 path_finder.py
 
 
 Interface:
