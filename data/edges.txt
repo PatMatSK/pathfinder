@@ -1,0 +1,70 @@
+Bratislava;Dunajská Streda
+Dunajská Streda;Komárno
+Komárno;Nové Zámky
+Nové Zámky;Nitra
+Nitra;Trnava
+Dudince;Levice
+Levice;Nitra
+Nitra;Topolčany
+Topolčany;Prievidza
+Prievidza;Trenčin
+Trenčin;Piešťany
+Piešťany;Trnava
+Trnava;Senec
+Senec;Bratislava
+Bratislava;Malacky
+Malacky;Kúty
+Kúty;Skalica
+Skalica;Senica
+Senica;Trnava
+Trenčin;Považská Bystrica
+Považská Bystrica;Žilina
+Žilina;Čadca
+Žilina;Martin
+Martin;Ružomberok
+Ružomberok;Dolný Kubín
+Dolný Kubín;Námestovo
+Ružomberok;Liptovský Mikuláš
+Poprad;Liptovský Mikuláš
+Poprad;Stará Ľubovňa
+Bardejov;Svidník
+Svidník;Stropkov
+Stropkov;Prešov
+Prešov;Poprad
+Prešov;Košice
+Košice;Michalovce
+Michalovce;Humenné
+Humenné;Prešov
+Košice;Rožňava
+Rožňava;Rimavská Sobota
+Rimavská Sobota;Lučenec
+Zvolen;Banská Bystrica
+Banská Bystrica;Brezno
+Zvolen;Žiar nad Hronom
+Žiar nad Hronom;Prievidza
+Dudince;Zvolen
+Dudince;Lučenec
+Štúrovo;Komárno
+Štúrovo;Levice
+Banská Bystrica;Ružomberok
+Prievidza;Žilina
+Zvolen;Detva
+Detva;Lučenec
+Rimavská Sobota;Tisovec
+Tisovec;Brezno
+Tisovec;Poprad
+Poprad;Rožňava
+Brezno;Liptovský Mikuláš
+Nitra;Žiar nad Hronom
+Nové Zámky;Galanta
+Galanta;Senec
+Stará Ľubovňa;Plaveč
+Plaveč;Bardejov
+Plaveč;Prešov
+Humenné;Snina
+Banská Bystrica;Turčianske Teplice
+Turčianske Teplice;Martin
+Žiar nad Hronom;Turčianske Teplice
+Štúrovo;Nové Zámky
+Nové Zámky;Levice
+Levice;Žiar nad Hronom
